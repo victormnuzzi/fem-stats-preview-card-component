@@ -17,47 +17,81 @@
 .container {
     height: 100vh;
     width: 100%;
+    color: white;
+    background-color: hsl(233, 47%, 7%);
 }
 
 /* Card */
 
 .card-container {
     height: 500px;
-    width: 1000px;
-    background-color: aqua;
+    width: 1200px;
+    background-color: hsl(244, 38%, 16%);
     flex-direction: row;
-    border: 2px solid red;
 }
 
 /* Card text content */
 
 .text-container {
-    width: 55%;
+    width: 50%;
     height: 100%;
-    border: 2px solid blue;
+    padding: 80px;
+    justify-content: space-between;
+    align-items: start;
 }
 
-.text-container h1 {
-    border: 2px solid blueviolet;
+.paragraph-container {
+    justify-content: space-between;
 }
 
-.text-paragraph {
+.paragraph-container h1 {
+    font-size: 38px;
+    margin-bottom: 30px;
+}
+
+.violet {
+    color: hsl(277, 64%, 61%);
+}
+
+.paragraph-container p {
     font-size: 15px;
-    border: 2px solid greenyellow;
-    
+    line-height: 1.7em;
+    color: hsla(0, 0%, 100%, 0.75);
+    border: 2px solid blue;
+    margin-right: 50px;
 }
 
-.data-numbers {
-    border: 2px solid yellow;
-    
+.data-numbers-container {
+    width: 85%;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.stat-number {
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.stat {
+    text-transform: uppercase;
+    color: hsla(0, 0%, 100%, 0.6);
+    font-family: 'Lexend Deca';
+    font-size: 13px;
+    letter-spacing: 1.5px;
+    margin-top: 8px;
 }
 
 /* Card image */
 
 .img-container {
-    width: 45%;
+    width: 50%;
     height: 100%;
-    border: 2px solid green;
+    object-fit: cover;
+    position: relative;
+}
+
+.img-container img {
+    width: 100%;
 }
 
 /*
