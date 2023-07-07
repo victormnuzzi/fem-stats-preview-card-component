@@ -1,0 +1,52 @@
+@media (max-width: 1260px) {
+    
+    /* Card */
+
+    .card-container {
+        width: 375px;
+        height: 820px;
+        flex-direction: column-reverse;
+        border-top-left-radius: 0px;
+        border-bottom-right-radius: 10px;
+    }
+
+    /* Card info content */
+
+    .info-container {
+        height: 70%;
+        width: 100%;
+        padding: 40px;
+        align-items: center;
+    }
+
+    .paragraph-container {
+        text-align: center;
+    }
+
+    .paragraph-container h1 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+
+    .data-numbers-container, .data-stats {
+        flex-direction: column;
+        text-align: center;
+        gap: 24px;
+    }
+
+    .stat-number {
+        font-size: 24px;
+    }
+
+    /* Card image */
+    
+    .img-container {
+        height: 30%;
+        width: 100%;
+    }
+    
+    .img-container img, .overlay {
+        border-top-left-radius: 10px;
+        border-bottom-right-radius: 0px;
+    }
+}
