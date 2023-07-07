@@ -5,10 +5,60 @@
     font-family: 'Inter', sans-serif;
 }
 
+.flexbox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
 
+/* Article container */
 
+.container {
+    height: 100vh;
+    width: 100%;
+}
 
+/* Card */
 
+.card-container {
+    height: 500px;
+    width: 1000px;
+    background-color: aqua;
+    flex-direction: row;
+    border: 2px solid red;
+}
+
+/* Card text content */
+
+.text-container {
+    width: 55%;
+    height: 100%;
+    border: 2px solid blue;
+}
+
+.text-container h1 {
+    border: 2px solid blueviolet;
+}
+
+.text-paragraph {
+    font-size: 15px;
+    border: 2px solid greenyellow;
+    
+}
+
+.data-numbers {
+    border: 2px solid yellow;
+    
+}
+
+/* Card image */
+
+.img-container {
+    width: 45%;
+    height: 100%;
+    border: 2px solid green;
+}
 
 /*
 .attribution { font-size: 11px; text-align: center; }
