@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/solution1-screenshot.jpg)
-![](./design/solution2-screenshot.jpg)
+![](./design/solution1-screenshot.png)
+![](./design/solution2-screenshot.png)
 
 ### Links
 
