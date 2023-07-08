@@ -14,4 +14,20 @@ Repositório criado para o exercício ["Stats Preview Card Component"](https://w
 
 ### 🤩 Resultado
 
-- [Link do site](https://fem-vn-stats-preview-card.netlify.app/e)
+- [Confira o resultado aqui!](https://fem-vn-stats-preview-card.netlify.app/e)
+
+### 📸 Screenshots
+
+<details style="margin-left: 28px;">
+  <summary style="margin-bottom: 10px;">Desktop:</summary>
+  
+  <img src="./solution/solution-desktop-screenshot.png" alt="Desktop solution screenshot" style="width: 400px;"></img>
+     
+</details>
+
+<details style="margin-left: 28px;">
+  <summary style="margin-bottom: 10px;">Mobile:</summary>
+  
+  <img src="./solution/solution-mobile-screenshot.png" alt="Mobile solution screenshot" style="height: 400px;"></img>
+
+</details>
