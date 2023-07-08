@@ -14,7 +14,7 @@ Repositório criado para o exercício ["Stats Preview Card Component"](https://w
 
 ### 🤩 Resultado
 
-- [Confira o resultado aqui!](https://fem-vn-stats-preview-card.netlify.app/e)
+- [Confira o resultado aqui!](https://fem-vn-stats-preview-card.netlify.app/)
 
 ### 📸 Screenshots
 
