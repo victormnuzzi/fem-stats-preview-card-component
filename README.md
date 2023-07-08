@@ -1,44 +1,17 @@
-# Frontend Mentor - Stats preview card component solution
+# 📈 Stats Preview Card Component
 
-This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Repositório criado para o exercício ["Stats Preview Card Component"](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62) do site [Frontend Mentor](https://www.frontendmentor.io).
 
-## Table of contents
+## 🎯Desafio
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
+"This is a great small challenge to help get you used to building to a design. There's no JS in this project, so you'll be able to focus on your HTML & CSS skills."
 
-## Overview
+*(Este é um pequeno e excelente desafio para o ajudar a habituar-se a construir um design. Não há JS neste projeto, por isso poderá concentrar-se nas suas competências em HTML e CSS.)*
 
-### The challenge
+### ⚒️ Tecnologias utilizadas 
+- HTML5
+- CSS3
 
-Users should be able to:
+### 🤩 Resultado
 
-- View the optimal layout depending on their device's screen size
-
-### Screenshot
-
-![](./design/solution1-screenshot.png)
-![](./design/solution2-screenshot.png)
-
-### Links
-
-- Live Site URL: [https://nuzzi-stats-preview-card-component.netlify.app/](https://nuzzi-stats-preview-card-component.netlify.app/)
-
-## My process
-
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Mobile-first workflow
-
-## Author
-
-- Website - [...]()
-- Frontend Mentor - [@victormnuzzi](https://www.frontendmentor.io/profile/victormnuzzi)
+- [Link do site](https://fem-vn-stats-preview-card.netlify.app/e)
